@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("testevolutionHome")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4bd0ffff65aee249dd57c7b2b80bcad8760a81a1")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c5a893627238427ff2cb80074a4fb1a54cf9df37")]
 [assembly: System.Reflection.AssemblyProductAttribute("testevolutionHome")]
 [assembly: System.Reflection.AssemblyTitleAttribute("testevolutionHome")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
