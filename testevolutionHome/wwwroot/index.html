@@ -4,7 +4,7 @@
 <head>
   <meta charset="utf-8">
   <meta content="width=device-width, initial-scale=1.0" name="viewport">
-  <title>Index - BizLand Bootstrap Template</title>
+  <title>TestEvolution.ai</title>
   <meta name="description" content="">
   <meta name="keywords" content="">
 
@@ -112,7 +112,11 @@
                         <h1>Welcome to <span>TestEvolution</span></h1>
                         <p>Full test automation coverage with a single click for your application</p>
                         <div class="d-flex">
-                            <a href="#about" class="btn-get-started">Get Started</a>
+                            <!--<a href="#login-section" class="btn-get-started scrollto">Get Started</a>-->
+                            <a href="#" class="btn-get-started" data-bs-toggle="modal" data-bs-target="#loginModal">Get Started</a>
+
+
+
                             <a href="https://www.youtube.com/watch?v=Y7f98aduVJ8" class="glightbox btn-watch-video d-flex align-items-center"><i class="bi bi-play-circle"></i><span>Watch Video</span></a>
                         </div>
                     </div>
@@ -1131,6 +1135,31 @@
         <div></div>
     </div>
 
+    <!-- Login Modal -->
+    <div class="modal fade" id="loginModal" tabindex="-1" aria-labelledby="loginModalLabel" aria-hidden="true">
+        <div class="modal-dialog modal-dialog-centered">
+            <div class="modal-content">
+                <div class="modal-header">
+                    <h5 class="modal-title" id="loginModalLabel">Login</h5>
+                    <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+                </div>
+                <form method="post" action="/login">
+                    <div class="modal-body">
+                        <div class="form-group">
+                            <input type="text" name="username" class="form-control" placeholder="Username" required />
+                        </div>
+                        <div class="form-group mt-3">
+                            <input type="password" name="password" class="form-control" placeholder="Password" required />
+                        </div>
+                    </div>
+                    <div class="modal-footer">
+                        <button type="submit" class="btn btn-primary w-100">Login</button>
+                    </div>
+                </form>
+            </div>
+        </div>
+    </div>
+
     <!-- Vendor JS Files -->
     <script src="assets/vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
     <script src="assets/vendor/php-email-form/validate.js"></script>
@@ -1155,6 +1184,15 @@
                 console.error('Ошибка при получении сообщения:', error);
             });
     </script>
+
+    <script>
+        document.querySelector('.btn-get-started').addEventListener('click', function (e) {
+            e.preventDefault();
+            document.querySelector('#login-section').scrollIntoView({ behavior: 'smooth' });
+        });
+    </script>
+
+    <script src="assets/vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
 </body>
 
 </html>

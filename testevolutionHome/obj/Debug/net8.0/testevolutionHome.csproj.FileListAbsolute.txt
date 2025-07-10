@@ -11,6 +11,7 @@ C:\Users\YuriGoncharov\source\repos\testevolutionHome\testevolutionHome\obj\Debu
 C:\Users\YuriGoncharov\source\repos\testevolutionHome\testevolutionHome\obj\Debug\net8.0\testevolutionHome.AssemblyInfo.cs
 C:\Users\YuriGoncharov\source\repos\testevolutionHome\testevolutionHome\obj\Debug\net8.0\testevolutionHome.csproj.CoreCompileInputs.cache
 C:\Users\YuriGoncharov\source\repos\testevolutionHome\testevolutionHome\obj\Debug\net8.0\testevolutionHome.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\YuriGoncharov\source\repos\testevolutionHome\testevolutionHome\obj\Debug\net8.0\testevolutionHome.sourcelink.json
 C:\Users\YuriGoncharov\source\repos\testevolutionHome\testevolutionHome\obj\Debug\net8.0\staticwebassets.build.json
 C:\Users\YuriGoncharov\source\repos\testevolutionHome\testevolutionHome\obj\Debug\net8.0\staticwebassets.development.json
 C:\Users\YuriGoncharov\source\repos\testevolutionHome\testevolutionHome\obj\Debug\net8.0\staticwebassets\msbuild.testevolutionHome.Microsoft.AspNetCore.StaticWebAssets.props
@@ -24,4 +25,3 @@ C:\Users\YuriGoncharov\source\repos\testevolutionHome\testevolutionHome\obj\Debu
 C:\Users\YuriGoncharov\source\repos\testevolutionHome\testevolutionHome\obj\Debug\net8.0\testevolutionHome.pdb
 C:\Users\YuriGoncharov\source\repos\testevolutionHome\testevolutionHome\obj\Debug\net8.0\testevolutionHome.genruntimeconfig.cache
 C:\Users\YuriGoncharov\source\repos\testevolutionHome\testevolutionHome\obj\Debug\net8.0\ref\testevolutionHome.dll
-C:\Users\YuriGoncharov\source\repos\testevolutionHome\testevolutionHome\obj\Debug\net8.0\testevolutionHome.sourcelink.json
