@@ -3,12 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\YuriGoncharov\\source\\repos\\testevolutionHome\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{D34C74CA-3142-4587-87F8-8C6AA673C6A9}|testevolutionHome\\testevolutionHome.csproj|c:\\users\\yurigoncharov\\source\\repos\\testevolutionhome\\testevolutionhome\\wwwroot\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{D34C74CA-3142-4587-87F8-8C6AA673C6A9}|testevolutionHome\\testevolutionHome.csproj|solutionrelative:testevolutionhome\\wwwroot\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{D34C74CA-3142-4587-87F8-8C6AA673C6A9}|testevolutionHome\\testevolutionHome.csproj|c:\\users\\yurigoncharov\\source\\repos\\testevolutionhome\\testevolutionhome\\wwwroot\\dashboard\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D34C74CA-3142-4587-87F8-8C6AA673C6A9}|testevolutionHome\\testevolutionHome.csproj|solutionrelative:testevolutionhome\\wwwroot\\dashboard\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{D34C74CA-3142-4587-87F8-8C6AA673C6A9}|testevolutionHome\\testevolutionHome.csproj|c:\\users\\yurigoncharov\\source\\repos\\testevolutionhome\\testevolutionhome\\wwwroot\\assets\\css\\main.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
       "RelativeMoniker": "D:0:0:{D34C74CA-3142-4587-87F8-8C6AA673C6A9}|testevolutionHome\\testevolutionHome.csproj|solutionrelative:testevolutionhome\\wwwroot\\assets\\css\\main.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D34C74CA-3142-4587-87F8-8C6AA673C6A9}|testevolutionHome\\testevolutionHome.csproj|c:\\users\\yurigoncharov\\source\\repos\\testevolutionhome\\testevolutionhome\\wwwroot\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D34C74CA-3142-4587-87F8-8C6AA673C6A9}|testevolutionHome\\testevolutionHome.csproj|solutionrelative:testevolutionhome\\wwwroot\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{D34C74CA-3142-4587-87F8-8C6AA673C6A9}|testevolutionHome\\testevolutionHome.csproj|c:\\users\\yurigoncharov\\source\\repos\\testevolutionhome\\testevolutionhome\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
@@ -38,15 +42,24 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
             },
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "index.html",
+              "DocumentMoniker": "C:\\Users\\YuriGoncharov\\source\\repos\\testevolutionHome\\testevolutionHome\\wwwroot\\dashboard\\index.html",
+              "RelativeDocumentMoniker": "testevolutionHome\\wwwroot\\dashboard\\index.html",
+              "ToolTip": "C:\\Users\\YuriGoncharov\\source\\repos\\testevolutionHome\\testevolutionHome\\wwwroot\\dashboard\\index.html",
+              "RelativeToolTip": "testevolutionHome\\wwwroot\\dashboard\\index.html",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2025-07-10T09:18:38.575Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -56,14 +69,14 @@
               "RelativeDocumentMoniker": "testevolutionHome\\wwwroot\\assets\\css\\main.css",
               "ToolTip": "C:\\Users\\YuriGoncharov\\source\\repos\\testevolutionHome\\testevolutionHome\\wwwroot\\assets\\css\\main.css",
               "RelativeToolTip": "testevolutionHome\\wwwroot\\assets\\css\\main.css",
-              "ViewState": "AgIAADYAAAAAAAAAAADgv1IAAAAlAAAAAAAAAA==",
+              "ViewState": "AgIAADoAAAAAAAAAAAAiwE8AAAACAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
               "WhenOpened": "2025-07-08T13:57:10.303Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "launchSettings.json",
               "DocumentMoniker": "C:\\Users\\YuriGoncharov\\source\\repos\\testevolutionHome\\testevolutionHome\\Properties\\launchSettings.json",
               "RelativeDocumentMoniker": "testevolutionHome\\Properties\\launchSettings.json",
@@ -75,7 +88,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "testevolutionHome.http",
               "DocumentMoniker": "C:\\Users\\YuriGoncharov\\source\\repos\\testevolutionHome\\testevolutionHome\\testevolutionHome.http",
               "RelativeDocumentMoniker": "testevolutionHome\\testevolutionHome.http",
@@ -87,7 +100,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\YuriGoncharov\\source\\repos\\testevolutionHome\\testevolutionHome\\appsettings.json",
               "RelativeDocumentMoniker": "testevolutionHome\\appsettings.json",
@@ -99,7 +112,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "index.html",
               "DocumentMoniker": "C:\\Users\\YuriGoncharov\\source\\repos\\testevolutionHome\\testevolutionHome\\wwwroot\\index.html",
               "RelativeDocumentMoniker": "testevolutionHome\\wwwroot\\index.html",
@@ -107,12 +120,11 @@
               "RelativeToolTip": "testevolutionHome\\wwwroot\\index.html",
               "ViewState": "AgIAAFwAAAAAAAAAAADgv3AAAABhAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
-              "WhenOpened": "2025-07-08T11:12:08.77Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-08T11:12:08.77Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "MessageController.cs",
               "DocumentMoniker": "C:\\Users\\YuriGoncharov\\source\\repos\\testevolutionHome\\testevolutionHome\\Controllers\\MessageController.cs",
               "RelativeDocumentMoniker": "testevolutionHome\\Controllers\\MessageController.cs",
@@ -124,7 +136,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\YuriGoncharov\\source\\repos\\testevolutionHome\\testevolutionHome\\Program.cs",
               "RelativeDocumentMoniker": "testevolutionHome\\Program.cs",
