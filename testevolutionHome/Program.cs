@@ -9,11 +9,17 @@
             // Добавляем поддержку контроллеров
             builder.Services.AddControllers();
 
+            //session support
+            builder.Services.AddDistributedMemoryCache(); // добавляем локальный кэш
+            builder.Services.AddSession();
+
             var app = builder.Build();
 
             // Используем статические файлы из wwwroot
             app.UseDefaultFiles();
             app.UseStaticFiles();
+
+            app.UseSession();
 
             app.UseRouting();
 

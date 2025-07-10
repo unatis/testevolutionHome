@@ -9,6 +9,13 @@ namespace testevolutionHome.Controllers
         [HttpGet]
         public IActionResult Get()
         {
+            //var loggedInUser = HttpContext.Session.GetString("user");
+
+            //if (string.IsNullOrEmpty(loggedInUser))
+            //{
+            //    return Redirect("/index.html");
+            //}
+
             return Ok(new { message = "Привет от ASP.NET Core Web API!" });
         }
     }
